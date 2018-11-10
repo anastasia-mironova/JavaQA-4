@@ -1,4 +1,4 @@
-public abstract class AutoTransport {
+public abstract class AutoTransport implements Machine{
     public void mileage(){
 
     }
